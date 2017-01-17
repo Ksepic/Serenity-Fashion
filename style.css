@@ -1,0 +1,83 @@
+html { 
+  background: url(images/background1.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+  margin: auto;
+  
+  
+
+}
+* {
+
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+body{
+	margin: 0 auto;s
+	margin-top: 1%;
+	width: 98%;
+	height: 97%;
+	border: 3px solid white;
+	}
+
+#serenityfashion{
+	text-align: center;
+	margin: 0 auto;
+	width: 100%;
+
+}
+#logo{
+	margin-top: 5%;
+}
+.social_media img {
+padding:6px; 
+margin:20px;
+margin-top: 20px;
+
+}
+
+
+
+
+footer{
+	margin: 0 auto;
+	width: 100%;
+	text-align: center;
+}
+h3{
+	margin-top: -34px;
+	font-family: "Garamond";
+	font-size: 15px;
+	margin-right: 3px;
+	color: white;
+}
+#text{
+	font-family: "Bell MT";
+	margin-top: 40px;
+}
+#seperator{
+	margin-top: 220px;
+}
+p{
+
+    text-shadow: 2px 2px black;
+	font-size: 16px;
+	color: white;
+	
+}
+h2{
+	margin-top: -36px;
+	font-family: "Garamond";
+	font-size: 18px;
+	margin-right: 3px;
+	color: white;
+}
+.btn-social:hover {
+    transform: scale(1.5, 1.5);
+    opacity: 1;
+}
